@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ajhemmings&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ajhemmings)
 
-- 🔭 Currently working on [Novari](https://well-being-app-final-project.vercel.app/)
+- 🔭 Currently working on [Novari](https://well-being-app-final-project.vercel.app/) and [Mega OX](https://mega-ox.vercel.app/)
 - 🌱 Learning **Python, AWS, and Infrastructure as Code**
 - 👨‍💻 Portfolio at [adamhemmings.com](https://adamhemmings.com)
 - 📫 Reach me at **adamhemmingsdev@gmail.com**
