@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Adam
 
-### Passionate Developer | Python & Cloud Enthusiast
+### Passionate Developer | Nerd & Cloud Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ajhemmings&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ajhemmings)
 
