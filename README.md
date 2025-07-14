@@ -9,7 +9,7 @@
 - 👨‍💻 Portfolio at [adamhemmings.com](https://adamhemmings.com)
 - 📫 Reach me at **adamhemmingsdev@gmail.com**
 - ⚡ Fun fact: **My dog thinks I'm awesome and comes as a free morale booster when you hire me!**
-- [!](https://www.svgrepo.com/show/157006/linkedin.svg)
+- [!https://www.svgrepo.com/show/157006/linkedin.svg]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-hemmings-75b71b55/)
 
