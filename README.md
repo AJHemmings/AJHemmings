@@ -1,3 +1,4 @@
+<div style="background-color: #f0f4e8; padding: 20px; border-radius: 10px; border: 1px solid #d4c9a8;">
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Adam
 
 ### Passionate Developer | Nerd & Cloud Enthusiast
@@ -65,3 +66,4 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ajhemmings&theme=dark&hide_border=true" alt="ajhemmings" />
 </p>
+</div>
