@@ -1,4 +1,3 @@
-[![Earthy Background](https://svgur.com/i/zxP.svg)](https://github.com/ajhemmings)
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Adam
 
 ### Passionate Developer | Nerd & Cloud Enthusiast
